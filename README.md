@@ -1,6 +1,6 @@
 # HackerEarth_Hackthon
 Objective :
-  Predict the employee attrition rate in organizations
+  Predict the employee attrition rate in organizations.
 Problem statement :
   Employees are the most important part of an organization. Successful employees meet deadlines, make sales, and build the brand through positive customer interactions.
   Employee attrition is a major cost to an organization and predicting such attritions is the most important
